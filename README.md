@@ -9,9 +9,9 @@
 | Dataset ID | `834150` |
 | Location | Los Angeles-Long Beach-Anaheim, CA |
 | Category | Restaurants |
-| Full dataset size | 204 records |
-| Free sample size | 29 records (14.22%) |
-| Last export | 2026-04-07T19:09:42.660514+00:00 |
+| Full dataset size | 295 records |
+| Free sample size | 29 records (9.83%) |
+| Last export | 2026-04-15T00:22:07.624320+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-los-angeles-long-beach-anaheim-metro-are-sample-834150/releases/download/sample-latest/beamstation_834150_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
