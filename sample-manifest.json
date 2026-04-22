@@ -1,12 +1,12 @@
 {
-  "export_job_id": "50b49319-d1e1-4468-a25c-1dcfd672e0bd",
+  "export_job_id": "71f45ed9-02a6-4662-a8ab-b7d3dfa5298c",
   "id_short": 834150,
-  "published_at": "2026-04-18T19:56:13Z",
+  "published_at": "2026-04-22T08:02:00Z",
   "repo_name": "top-10-active-restaurant-review-whales-in-los-angeles-long-beach-anaheim-metro-are-sample-834150",
   "sample_asset_name": "beamstation_834150_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/834150/beamstation_834150_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "c59819d938aecfe83066a1c61ab77b65543fe0fcee9cc3e830d6ea029a1c6c9b",
-  "sample_size_bytes": 126481,
-  "total_records": 295
+  "sample_records": 11,
+  "sample_sha256": "73f006f52c4e22ab92489eb7ada0b47f7843526f2b35dadc3b09ff9f70df24ed",
+  "sample_size_bytes": 56708,
+  "total_records": 111
 }
