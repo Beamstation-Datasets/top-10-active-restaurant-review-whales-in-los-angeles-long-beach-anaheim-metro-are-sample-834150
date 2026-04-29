@@ -1,6 +1,6 @@
 # Top 10% Active Restaurant Review Whales in Los Angeles-Long Beach-Anaheim Metro Area, CA, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `834150` |
 | Location | Los Angeles-Long Beach-Anaheim, CA |
 | Category | Restaurants |
-| Full dataset size | 111 records |
-| Free sample size | 11 records (9.91%) |
-| Last export | 2026-04-22T04:21:14.769830+00:00 |
+| Full dataset size | 84 records |
+| Free sample size | 8 records (9.52%) |
+| Last export | 2026-04-29T06:47:01.031434+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-los-angeles-long-beach-anaheim-metro-are-sample-834150/releases/download/sample-latest/beamstation_834150_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
